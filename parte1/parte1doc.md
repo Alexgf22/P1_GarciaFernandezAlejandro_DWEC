@@ -19,6 +19,9 @@
             3. The Guardian
             4. The Washington Post
         * Apps que usan Arquitectura Cliente/Servidor
+            1. Facebook
+            2. Amazon
+            3. WordPress.
     
     3. Bibliografía.
 
@@ -70,7 +73,7 @@
 
 ### Identificación de ejemplos de aplicaciones que utilizan cada modelo
 
-#### Apps que usan Arquitectura de SPA (Single Page Application)
+#### Apps que usan arquitectura de SPA (Single Page Application)
 
 1. **Gmail** Gmail es un destacado ejemplo de una SPA. Al iniciar sesión, se despliega una sola página inicial donde todas las interacciones se llevan a cabo sin recargar la página completa. Las bandejas de entrada, la composición de mensajes, la búsqueda y la visualización de correos se realizan de inmediato, ofreciendo una experiencia sin interrupciones y ágil.
 
@@ -78,7 +81,7 @@
 
 3. **Spotify** Spotify emplea una Aplicación de Página Única (SPA) en su versión web. Tras iniciar sesión, se despliega una sola página que habilita a los usuarios a buscar, reproducir y administrar música sin cargar páginas adicionales. Las actualizaciones de la lista de reproducción, la búsqueda de artistas y álbumes, así como la emisión de canciones se llevan a cabo en una misma página, proporcionando una experiencia de usuario sin interrupciones y fluida.
 
-#### Apps que usan Arquitectura de Progresive Web Apps (PWA)
+#### Apps que usan arquitectura de Progresive Web Apps (PWA)
 
 Hay una gran variedad de compañías que han implementado esta tecnología en sus webs.
 Tenemos varias como pueden ser:
@@ -87,7 +90,15 @@ Tenemos varias como pueden ser:
     3. **The Guardian**
     4. **The Washington Post**
 
-#### Apps que usan Arquitectura Cliente/Servidor
+#### Apps que usan arquitectura Cliente/Servidor
+
+Muchas apps y servicios modernos usan esta arquitectura para brindar funcionalidades distribuidas y escalables. Ejemplos:
+
+    1. **Facebook** Las redes sociales como Facebook utilizan una arquitectura cliente/servidor para coordinar las interacciones de los usuarios y archivar y restaurar datos.
+
+    2. **Amazon** Los sitios web de comercio electrónico como Amazon utilizan servidores para manejar la base de datos de productos, procesar transacciones y proveer una experiencia de compra en línea.
+
+    3. **WordPress** Plataformas como WordPress usan una arquitectura cliente/servidor para administrar el contenido de los sitios web, guardar datos y contestar a las solicitudes de los visitantes.
 
 ---
 
@@ -96,5 +107,6 @@ Tenemos varias como pueden ser:
 [Arquitectura cliente-servidor](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
 [Progressive Web Apps](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
 [Single Page Applications](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
-[Apps que usan Single Page Application](https://blog.hubspot.es/website/que-es-single-page-application)
-[Apps que usan Progresive Web Apps](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
+[Apps que usan arquitectura Single Page Application](https://blog.hubspot.es/website/que-es-single-page-application)
+[Apps que usan arquitectura Progresive Web Apps](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
+[Apps que usan arquitectura Cliente/Servidor](https://blog.faztweb.com/2017/04/entendiendo-arquitectura-cliente.html)
