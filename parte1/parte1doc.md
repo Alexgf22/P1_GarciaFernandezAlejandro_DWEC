@@ -3,11 +3,17 @@
 ## Indice
 
     1. Investigación de los modelos cliente/servidor más comunes.
-        1.Arquitectura de SPA (Single Page Application)
-        2.Arquitectura de Progresive Web Apps (PWA)
-        3.Cliente/Servidor
+        * Algunos de los modelos de arquitectura web más comunes
+            1. Arquitectura de SPA (Single Page Application)
+            2. Arquitectura de Progresive Web Apps (PWA)
+            3. Cliente/Servidor
 
     2. Identificación de ejemplos de aplicaciones que utilizan cada modelo.
+        * Apps que usan Arquitectura de SPA (Single Page Application)
+            1. Gmail
+            2. Trello
+            3. Spotify
+        * Apps que usan Arquitectura de Progresive Web Apps (PWA)
     
     3. Bibliografía.
 
@@ -15,7 +21,7 @@
 
 ### Investigación de los modelos cliente/servidor más comunes
 
-#### Algunos de los modelos de arquitectura web más comunes son
+#### Algunos de los modelos de arquitectura web más comunes
 
 1. **Arquitectura de SPA (Single Page Application):** Las Single Page Applications (SPA) revolucionan la experiencia del usuario al cargar todo lo necesario en una única página y actualizarla dinámicamente a medida que interactúa. Esto se logra a través de llamadas AJAX al servidor, lo que evita la necesidad de recargar la página por completo. En una SPA, el servidor actúa principalmente como un Service Layer y no tiene un papel central como en las aplicaciones web tradicionales.
 
@@ -59,6 +65,16 @@
 
 ### Identificación de ejemplos de aplicaciones que utilizan cada modelo
 
+#### Apps que usan Arquitectura de SPA (Single Page Application)
+
+1. **Gmail** Gmail es un destacado ejemplo de una SPA. Al iniciar sesión, se despliega una sola página inicial donde todas las interacciones se llevan a cabo sin recargar la página completa. Las bandejas de entrada, la composición de mensajes, la búsqueda y la visualización de correos se realizan de inmediato, ofreciendo una experiencia sin interrupciones y ágil.
+
+2. **Trello** Trello es una app para organizar proyectos con tableros. Permite a los usuarios elaborar listas, añadir tarjetas y trasladarlas entre distintas fases del proceso. En ella, los usuarios llevan a cabo todas las acciones sin requerir cargar páginas extra. Modificar los tableros y tarjetas es sencillo, y los usuarios pueden contribuir en directo de manera fluida.
+
+3. **Spotify** Spotify emplea una Aplicación de Página Única (SPA) en su versión web. Tras iniciar sesión, se despliega una sola página que habilita a los usuarios a buscar, reproducir y administrar música sin cargar páginas adicionales. Las actualizaciones de la lista de reproducción, la búsqueda de artistas y álbumes, así como la emisión de canciones se llevan a cabo en una misma página, proporcionando una experiencia de usuario sin interrupciones y fluida.
+
+#### Apps que usan Arquitectura de Progresive Web Apps (PWA)
+
 ---
 
 ### Bibliografía
@@ -66,3 +82,4 @@
 [Arquitectura cliente-servidor](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
 [Progressive Web Apps](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
 [Single Page Applications](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
+[Ejemplos de Single Page Application](https://blog.hubspot.es/website/que-es-single-page-application)
