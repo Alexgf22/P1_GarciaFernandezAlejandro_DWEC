@@ -14,6 +14,11 @@
             2. Trello
             3. Spotify
         * Apps que usan Arquitectura de Progresive Web Apps (PWA)
+            1. Aliexpress
+            2. Alibaba
+            3. The Guardian
+            4. The Washington Post
+        * Apps que usan Arquitectura Cliente/Servidor
     
     3. Bibliografía.
 
@@ -75,6 +80,15 @@
 
 #### Apps que usan Arquitectura de Progresive Web Apps (PWA)
 
+Hay una gran variedad de compañías que han implementado esta tecnología en sus webs.
+Tenemos varias como pueden ser:
+    1. **Aliexpress**: En su caso creció considerablemente tanto el número de usuarios y como las estadísticas que mejoraron con creces.
+    2. **Alibaba**
+    3. **The Guardian**
+    4. **The Washington Post**
+
+#### Apps que usan Arquitectura Cliente/Servidor
+
 ---
 
 ### Bibliografía
@@ -82,4 +96,5 @@
 [Arquitectura cliente-servidor](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
 [Progressive Web Apps](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
 [Single Page Applications](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
-[Ejemplos de Single Page Application](https://blog.hubspot.es/website/que-es-single-page-application)
+[Apps que usan Single Page Application](https://blog.hubspot.es/website/que-es-single-page-application)
+[Apps que usan Progresive Web Apps](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
