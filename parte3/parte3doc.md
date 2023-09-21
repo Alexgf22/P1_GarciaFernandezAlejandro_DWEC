@@ -38,6 +38,10 @@ En referencia al acceso a recursos, el código en el lado del cliente está redu
 
 * **Definición:** TypeScript mejora JavaScript al añadir tipos en la sintaxis, permitiendo encontrar fallos de manera anticipada. El código TypeScript se transforma a JavaScript y conserva sus beneficios. Es compatible con apps, marcos y bibliotecas de JavaScript.
 
+* **Tipado estático** TypeScript se distingue por su tipado estático, lo que significa que las variables tienen tipos específicos y solo pueden recibir valores pertenecientes a esos tipos. Esto facilita la ejecución de herramientas avanzadas de desarrollo, como autocompletado, recomendaciones de argumentos y rastreo de fallos más precisa, en contraste con lenguajes de tipado dinámico como JavaScript, que son más flexibles pero menos precisos.
+
+* **Motivos para usarlo** La industria de la programación es variada y siempre evoluciona con nuevas tecnologías. TypeScript es una de esas tecnologías que destaca por su mejora en la experiencia de desarrollo. Desarrollar en TypeScript es altamente valorado y grandes empresas como Google, Microsoft, Basecamp y Lyft lo han adoptado en lugar de JavaScript.
+
 
 #### 3. **CoffeeScript**
 
@@ -52,3 +56,4 @@ En referencia al acceso a recursos, el código en el lado del cliente está redu
 ### Bibliografía
 
 [¿Qué es JavaScript?](https://aws.amazon.com/es/what-is/javascript/)
+[TypeScript](https://codigofacilito.com/articulos/typescript)
