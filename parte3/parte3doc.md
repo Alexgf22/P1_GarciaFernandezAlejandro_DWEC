@@ -4,11 +4,35 @@
 
     1. Investigación de lenguajes como JavaScript, TypeScript, y otros.
         1. JavaScript.
+            * Definición
+            * Uso de JavaScript
+            * ¿Cómo funciona JavaScript?
+            * ¿Qué son las bibliotecas de JavaScript?
         2. TypeScript.
-        3. CoffeeScript.
-        4. Dart.
+            * Definición
+            * Tipado estático
+            * Motivos para usarlo
+        3. Elm.
+            * Definición
+            * Características
+            * Ventajas y desventajas
 
     2. Comparación de sus características y aplicaciones.
+        1. Características y aplicaciones de JavaScript.
+            * Funciones esenciales
+            * Tipado
+            * Ecosistema
+            * Aplicaciones
+        2. Características y aplicaciones de TypeScript.
+            * Funciones esenciales
+            * Tipado
+            * Ecosistema
+            * Aplicaciones
+        3. Características y aplicaciones de Elm.
+            * Funciones esenciales
+            * Tipado
+            * Ecosistema
+            * Aplicaciones
 
     3. Bibliografía.
 
@@ -50,16 +74,42 @@ En referencia al acceso a recursos, el código en el lado del cliente está redu
 
 * **Ventajas y desventajas** Elm ofrece ventajas significativas como la generación de programas sin errores y la eliminación de la necesidad de manejar valores nulos. Permite una alta reutilización y destaca en rendimiento. Facilita la refactorización y cuenta con una comunidad activa. Puede ser complicado de aprender si no se está familiarizado con la programación funcional. La codificación de JSON en Elm puede ser más compleja que en JavaScript, pero proporciona una mayor fiabilidad.
 
-
-
-
-
 ### Comparación de sus características y aplicaciones
 
+#### 1. **Características y aplicaciones de JavaScript**
 
+* **Funciones esenciales:** Interactividad web, empleo del DOM, acceso a API del navegador, desarrollo de apps en el lado del cliente y del servidor.
+
+* **Tipado** Dinámico, los tipos de datos pueden variar en el tiempo de ejecución.
+
+* **Ecosistema** Una gran comunidad y ecosistema de bibliotecas y marcos de trabajo.
+
+* **Aplicaciones** Facebook, Twitter, Outlook...
+
+#### 2. **Características y aplicaciones de TypeScript:**
+
+* **Funciones esenciales:** Extensión de JavaScript, incluye verificación de tipos estáticos, interfaces y características de programación orientada a objetos.
+
+* **Tipado** Estático, las variables tienen tipos específicos y únicamente pueden admitir valores referentes a dichos tipos.
+
+* **Ecosistema** Ecosistema robusto, protegido por grandes compañías y se integra bien con herramientas de desarrollo.
+
+* **Aplicaciones** Youtube, Vimeo, Amazon...
+
+#### 3. **Características y aplicaciones de Elm:**
+
+* **Funciones esenciales:** Desarrollo web funcional, fuertemente tipado, producción de programas sin fallos.
+
+* **Tipado** Estático y cuenta con un compilador que comprueba la corrección del código previamente a la ejecución.
+
+* **Ecosistema** Comunidad activa, enfoque en fiabilidad y falta de errores en apps web. Se adhiere a JavaScript de manera eficaz.
+
+* **Aplicaciones** NoRedInk (sitio web para aprender inglés), Prezi (sitio web de presentaciones interactivas), Pantheon (sitio web de gestión de alojamiento)...
 
 ### Bibliografía
 
 [¿Qué es JavaScript?](https://aws.amazon.com/es/what-is/javascript/)
 [TypeScript](https://codigofacilito.com/articulos/typescript)
 [Elm](https://openwebinars.net/blog/caracteristicas-y-ventajas-del-lenguaje-elm/#caracter%C3%ADsticas-del-lenguaje-elm)
+[Información sobre JavaScript](https://desarrolloweb.com/home/javascript)
+[Información sobre TypeScript](https://www.unir.net/ingenieria/revista/que-es-typescript/#:~:text=Con%20TypeScript%20podemos%20crear%20desde,%2C%20Facebook%2C%20Twitter%20o%20Amazon.)
