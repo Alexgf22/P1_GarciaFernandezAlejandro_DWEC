@@ -42,8 +42,13 @@ En referencia al acceso a recursos, el código en el lado del cliente está redu
 
 * **Motivos para usarlo** La industria de la programación es variada y siempre evoluciona con nuevas tecnologías. TypeScript es una de esas tecnologías que destaca por su mejora en la experiencia de desarrollo. Desarrollar en TypeScript es altamente valorado y grandes empresas como Google, Microsoft, Basecamp y Lyft lo han adoptado en lugar de JavaScript.
 
+#### 3. **Elm**
 
-#### 3. **CoffeeScript**
+* **Definición:** Elm lang es un lenguaje de programación basado en JavaScript que prioriza la programación funcional y la ausencia de errores en tiempo de ejecución. Fue creado por Evan Czaplick como parte de su tesis y se destaca por su compilador de tipos fuertes, que permite detectar errores durante la compilación. Esto garantiza que si un programa se compila, funcionará correctamente. Además, facilita el desarrollo funcional en el navegador sin comprometer el rendimiento.
+
+* **Características** Elm es un lenguaje de programación funcional para desarrollo web. Destaca por sus avisos de error claros, prevención de errores en ejecución y facilidad para refactorizar. También se integra bien con JavaScript, es fuertemente tipado y utiliza una arquitectura reactiva para renderizar datos en el navegador sin emplear el DOM.
+
+* **Ventajas y desventajas** Elm ofrece ventajas significativas como la generación de programas sin errores y la eliminación de la necesidad de manejar valores nulos. Permite una alta reutilización y destaca en rendimiento. Facilita la refactorización y cuenta con una comunidad activa. Puede ser complicado de aprender si no se está familiarizado con la programación funcional. La codificación de JSON en Elm puede ser más compleja que en JavaScript, pero proporciona una mayor fiabilidad.
 
 
 
@@ -57,3 +62,4 @@ En referencia al acceso a recursos, el código en el lado del cliente está redu
 
 [¿Qué es JavaScript?](https://aws.amazon.com/es/what-is/javascript/)
 [TypeScript](https://codigofacilito.com/articulos/typescript)
+[Elm](https://openwebinars.net/blog/caracteristicas-y-ventajas-del-lenguaje-elm/#caracter%C3%ADsticas-del-lenguaje-elm)
