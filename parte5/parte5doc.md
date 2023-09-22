@@ -40,7 +40,6 @@
 
 [Ejemplo JavaScript](../programaJavaScript/ejemplo.html)
 
-
 ### Bibliografía
 
 [Información HTML5](https://openwebinars.net/blog/que-es-html5/)
