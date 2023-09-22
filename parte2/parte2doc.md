@@ -7,6 +7,14 @@
     2. Evaluación de las diferencias de compatibilidad entre navegadores.
 
     3. Resolución de problemas de compatibilidad en una aplicación web.
+        * Validar el código de la página
+        * Restablecer estilos CSS
+        * Utilizar técnicas válidas
+        * Usa Google Chrome
+        * Verificar web en diferentes buscadores
+            1. Browsershots
+            2. IETester
+            3. Browser Sandbox
 
     4. Bibliografía.
 
