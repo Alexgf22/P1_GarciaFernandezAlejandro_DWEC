@@ -92,9 +92,9 @@ Muchas apps y servicios modernos usan esta arquitectura para brindar funcionalid
 
 ### Bibliografía
 
-[Arquitectura cliente-servidor (autor: Oscar Blancarte)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
-[Progressive Web Apps (autor: Felix Icaza)](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
-[Single Page Applications (autor: Roberto Bermejo)](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
-[Apps que usan arquitectura Single Page Application (autor: Martín Durán)](https://blog.hubspot.es/website/que-es-single-page-application)
-[Apps que usan arquitectura Progresive Web Apps (autor: Daniel Torres Burriel)](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
-[Apps que usan arquitectura Cliente/Servidor (autor: Fazt Blog)](https://blog.faztweb.com/2017/04/entendiendo-arquitectura-cliente.html)
+[Arquitectura cliente-servidor (autor: Oscar Blancarte, copyright)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
+[Progressive Web Apps (autor: Félix Icaza) 25 Octubre, 2021 copyright](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
+[Single Page Applications (autor: Roberto Bermejo) 10 JUNIO, 2014 copyright](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
+[Apps que usan arquitectura Single Page Application (autor: Martín Durán) May 22, 2023 copyright](https://blog.hubspot.es/website/que-es-single-page-application)
+[Apps que usan arquitectura Progresive Web Apps (autor: Daniel Torres Burriel) 25/1/2017 copyright](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
+[Apps que usan arquitectura Cliente/Servidor (autor: Fazt Blog) abril 06, 2017 copyright](https://blog.faztweb.com/2017/04/entendiendo-arquitectura-cliente.html)
