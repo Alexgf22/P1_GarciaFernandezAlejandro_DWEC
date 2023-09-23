@@ -22,17 +22,17 @@
 
 ### Estudio de cómo se ejecuta el código JavaScript en un navegador
 
-JavaScript, como lenguaje interpretado, implica que el código fuente se convierte en código ejecutable instantáneamente durante su proceso. El intérprete, incorporado en el navegador, se encarga de esta transformación cuando ejecuta la página en el almacenamiento del dispositivo. El código JavaScript puede localizarse en cualquier sección del documento HTML, incluso puede haber múltiples bloques. El orden de análisis sigue la disposición física en el documento, y el código en funciones o coordinadores de eventos solo se interpreta al ser llamado. Esto significa que los errores en funciones pueden permanecer camuflados hasta su invocación.
+JavaScript es un lenguaje interpretado que se ejecuta al cargar una página web en el navegador. Puede estar ubicado en cualquier parte del código HTML y se procesa en el orden en que aparece. Es importante tener en cuenta que los errores en funciones pueden no ser evidentes hasta que se utilizan. Esto significa que la detección de fallos puede no ocurrir inmediatamente.
 
 ### Evaluación de las diferencias de compatibilidad entre navegadores
 
-* Un sitio web compatible con todos los navegadores se ve igual en cada uno. Es esencial que funcione correctamente en los buscadores principales como Firefox, Chrome Explorer, Opera...etc .Ya que esto garantiza una buena experiencia para la mayoría de los usuarios.
+* Es crucial que un sitio web funcione bien en todos los navegadores populares (Firefox, Chrome, Explorer, Opera, etc.) para ofrecer una experiencia uniforme a la mayoría de los usuarios.
 
-* Es crucial que una página web funcione de forma adecuada en diversos navegadores, ya que estos traducen el código de manera diferente, lo que puede afectar la visualización. Esto garantiza que la página sea accesible para la mayor cantidad de usuarios. No solamente considerar el público y el diseño al crear una web.
+* Pueden interpretar el código de manera distinta. Esto garantiza la accesibilidad y destaca la importancia de considerar no solo el público y el diseño al crear un sitio web.
 
 ### Resolución de problemas de compatibilidad en una aplicación web
 
-* **Validar el código de la página** Para una mayor compatibilidad con los buscadores es recomendable comprobar el código del sitio web según los estándares del W3C para asegurar compatibilidad entre navegadores y próximas comprobaciones de HTML y CSS. Esto quiere decir analizar tu web para verificar si hay fallos, saber el motivo de cada error y arreglarlos. Validar manualmente es propenso a errores y menos eficiente. Además es importante verificar el código para mayor simplicidad de mantenimiento, para aparentar mayor profesionalidad...
+* **Validar el código de la página** Validar el código de un sitio web según estándares del W3C es crucial para asegurar compatibilidad y facilitar futuras actualizaciones. Esto implica identificar y corregir errores, evitando el proceso manual propenso a equivocaciones. Además, contribuye a la simplicidad en el mantenimiento y proyecta profesionalismo.
 
 * **Restablecer estilos CSS** Si no se utiliza CSS, los elementos de la página tienen estilos por defecto que pueden variar entre buscadores y causar dificultades. Restablecer el CSS al principio de la hoja de estilos es una forma útil de volver a empezar y vigilar el aspecto de cada elemento.
 

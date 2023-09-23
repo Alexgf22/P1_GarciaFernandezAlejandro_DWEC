@@ -42,37 +42,29 @@
 
 #### 1. **JavaScript:**
 
-* **Definición:** JavaScript es un lenguaje de programación esencial para crear páginas web interactivas. Puede mejorar la experiencia del usuario al permitir actualizaciones en redes sociales, animaciones y mapas interactivos. Funciona tanto en el lado del cliente como en el servidor, siendo una tecnología clave en la World Wide Web. Ejemplos de su efectividad incluyen carruseles de imágenes y menús desplegables.
+* **Definición:** JavaScript es esencial para páginas web interactivas, permitiendo actualizaciones en tiempo real y funciones interactivas. Funciona tanto en el lado del cliente como del servidor, siendo fundamental en la web. Ejemplos incluyen carruseles de imágenes y menús desplegables.
 
-* **Uso de JavaScript:** Antes, las páginas web eran estáticas, como las de un libro, mostrando información en un diseño fijo. JavaScript surgió para dar dinamismo a las aplicaciones web, permitiendo a los navegadores responder a la interacción del usuario y cambiar el contenido en la página. Con el tiempo, JavaScript se expandió más allá de los navegadores, siendo utilizado tanto en el lado del cliente como en el del servidor.
+* **Uso de JavaScript:** JavaScript revolucionó las páginas web al agregar dinamismo, permitiendo respuestas interactivas y cambios de contenido en tiempo real. Inicialmente, las páginas eran estáticas, similares a un libro impreso. Con el tiempo, JavaScript se extendió a aplicaciones tanto del lado del cliente como del servidor.
 
-* **¿Cómo funciona JavaScript?:** JavaScript es un lenguaje de programación que se traduce a código de máquina para ejecutarse. Se clasifica como interpretado, lo que quiere decir que se traduce directamente a código de máquina a través de un motor de JavaScript.
+* **¿Cómo funciona JavaScript?:** JavaScript se ejecuta en el navegador del cliente y en el servidor. En el cliente, interactúa con las páginas web, y en el servidor, maneja la lógica de backend y la base de datos. Ambos lados crean contenido dinámico, pero de formas diferentes. El acceso a recursos varía: el cliente está limitado por el navegador, mientras que el servidor puede acceder a todo lo necesario.
 
-En el lado del cliente, JavaScript opera en el navegador y es interpretado por el motor del navegador. Los desarrolladores lo usan para interaccionar con la página web.
-
-En el lado del servidor, JavaScript se usa en la lógica de backend y el motor se halla en el servidor. Esto acepta el acceso a la base de datos y dar respuesta a eventos del sistema operativo del servidor.
-
-Ambos lados producen contenido dinámico, pero lo realizan de forma distinta. En el lado del servidor, se hace mediante la lógica de la app y la base de datos. En el lado del cliente, se lleva a cabo en la interfaz de usuario y se edita el contenido existente.
-
-En referencia al acceso a recursos, el código en el lado del cliente está reducido por el navegador, mientras que el código en el lado del servidor puede acceder a todos los recursos del servidor según sea necesario.  
-
-* **¿Qué son las bibliotecas de JavaScript?:** Las bibliotecas de JavaScript son conjuntos de código preescrito que los desarrolladores web pueden reutilizar para realizar tareas comunes en JavaScript. Funcionan como muebles prefabricados que aumentan la funcionalidad de una app. Se usan para visualizar datos, manipular el DOM, crear y validar formularios...
+* **¿Qué son las bibliotecas de JavaScript?:** Las bibliotecas de JavaScript son conjuntos de código preescrito para tareas comunes. Funcionan como muebles prefabricados, agregando funcionalidad a una aplicación, como visualizar datos o manipular el DOM.
 
 #### 2. **TypeScript:**
 
 * **Definición:** TypeScript mejora JavaScript al añadir tipos en la sintaxis, permitiendo encontrar fallos de manera anticipada. El código TypeScript se transforma a JavaScript y conserva sus beneficios. Es compatible con apps, marcos y bibliotecas de JavaScript.
 
-* **Tipado estático** TypeScript se distingue por su tipado estático, lo que significa que las variables tienen tipos específicos y solo pueden recibir valores pertenecientes a esos tipos. Esto facilita la ejecución de herramientas avanzadas de desarrollo, como autocompletado, recomendaciones de argumentos y rastreo de fallos más precisa, en contraste con lenguajes de tipado dinámico como JavaScript, que son más flexibles pero menos precisos.
+* **Tipado estático** TypeScript utiliza tipado estático, lo que significa que las variables tienen tipos específicos y solo aceptan valores de esos tipos. Esto permite herramientas de desarrollo más precisas en comparación con lenguajes de tipado dinámico como JavaScript.
 
-* **Motivos para usarlo** La industria de la programación es variada y siempre evoluciona con nuevas tecnologías. TypeScript es una de esas tecnologías que destaca por su mejora en la experiencia de desarrollo. Desarrollar en TypeScript es altamente valorado y grandes empresas como Google, Microsoft, Basecamp y Lyft lo han adoptado en lugar de JavaScript.
+* **Motivos para usarlo** TypeScript mejora la experiencia de desarrollo y es preferido por grandes empresas como Google, Microsoft, Basecamp y Lyft en lugar de JavaScript.
 
 #### 3. **Elm**
 
-* **Definición:** Elm lang es un lenguaje de programación basado en JavaScript que prioriza la programación funcional y la ausencia de errores en tiempo de ejecución. Fue creado por Evan Czaplick como parte de su tesis y se destaca por su compilador de tipos fuertes, que permite detectar errores durante la compilación. Esto garantiza que si un programa se compila, funcionará correctamente. Además, facilita el desarrollo funcional en el navegador sin comprometer el rendimiento.
+* **Definición:** Elm es un lenguaje basado en JavaScript que prioriza la programación funcional y la ausencia de errores. Su compilador de tipos fuertes garantiza que los programas compilados funcionen correctamente, lo que lo hace eficiente en el desarrollo web.
 
 * **Características** Elm es un lenguaje de programación funcional para desarrollo web. Destaca por sus avisos de error claros, prevención de errores en ejecución y facilidad para refactorizar. También se integra bien con JavaScript, es fuertemente tipado y utiliza una arquitectura reactiva para renderizar datos en el navegador sin emplear el DOM.
 
-* **Ventajas y desventajas** Elm ofrece ventajas significativas como la generación de programas sin errores y la eliminación de la necesidad de manejar valores nulos. Permite una alta reutilización y destaca en rendimiento. Facilita la refactorización y cuenta con una comunidad activa. Puede ser complicado de aprender si no se está familiarizado con la programación funcional. La codificación de JSON en Elm puede ser más compleja que en JavaScript, pero proporciona una mayor fiabilidad.
+* **Ventajas y desventajas** Elm destaca por programas sin errores y eliminación de valores nulos. Es eficiente y facilita refactorizaciones. Sin embargo, puede ser difícil para quienes no conocen la programación funcional. Codificar en JSON es más complejo, pero ofrece mayor fiabilidad que JavaScript.
 
 ### Comparación de sus características y aplicaciones
 

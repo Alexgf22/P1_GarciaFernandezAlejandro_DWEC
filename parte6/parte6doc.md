@@ -3,6 +3,15 @@
 ## Indice
 
     1. Uso de herramientas como Visual Studio Code, Chrome DevTools, etc.
+        * Visual Studio Code
+            * Definicion
+            * Características
+            * VS Code en Web
+
+        * Chrome DevTools
+            * Definicion
+            * Opciones
+            * Problemas
 
     2. Bibliografía.
 
@@ -25,8 +34,18 @@
 
 #### Chrome DevTools
 
-* **Definicion**
+* **Definicion** Google Chrome DevTools es una agrupación de herramientas en el navegador Chrome donde los desarrolladores web examinan, depuran y mejoran sitios y apps web. Simplifica funciones, por ejemplo, inspección de elementos, edición de código al momento y evaluación de scripts. Es indispensable para incrementar la calidad y la productividad de programas web.
+
+* **Opciones** Algunas de las opciones con las que cuenta en la barra superior son:
+    1. Analizar el código de la página.
+    2. Modificar el contenido HTML y diseño CSS.
+    3. Manipular y experimentar con funciones en JavaScript.
+    4. Identificar y corregir fallos en el código JavaScript y estilos CSS.
+
+* **Problemas** El principales obstáculos se encuentran en los costos y tiempos de desarrollo. Aunque WordPress acepta desarrollar webs atractivas de forma veloz, puede producir dificultades de rendimiento por exceso de elementos sobrantes. Buscar  remedios más baratos puede ser costoso con el tiempo.
 
 ### Bibliografía
 
 [¿Qué es Visual Studio Code?](https://openwebinars.net/blog/que-es-visual-studio-code-y-que-ventajas-ofrece/)
+[¿Qué es DevTools?](https://imacreste.com/que-es-y-porque-usar-devtools/)
+[Chrome DevTools](https://platzi.com/clases/1758-html-practico/24684-chrome-dev-tools/)

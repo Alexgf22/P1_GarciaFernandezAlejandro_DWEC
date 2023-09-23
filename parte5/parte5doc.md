@@ -3,6 +3,14 @@
 ## Indice
 
     1. Exploración de tecnologías como CSS y HTML5.
+        * HTML5
+            * Significado HTML5
+            * ¿Cómo funciona HTML5?
+        * CSS
+            * Significado CSS
+            * Uso
+            * Ventajas
+            * Desventajas
 
     2. Creación de una pequeña aplicación web integrando código JavaScript de diferentes maneras.
 
