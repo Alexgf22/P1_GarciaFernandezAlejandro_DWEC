@@ -50,5 +50,5 @@
 
 ### Bibliografía
 
-[Información HTML5](https://openwebinars.net/blog/que-es-html5/)
-[Definición CSS](https://blog.hubspot.es/website/que-es-css#que-es)
+[Información HTML5 (autor: Juan Diego Pérez Jiménez)](https://openwebinars.net/blog/que-es-html5/)
+[Definición CSS (autor: Diego Santos)](https://blog.hubspot.es/website/que-es-css#que-es)

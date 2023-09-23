@@ -100,8 +100,8 @@
 
 ### Bibliografía
 
-[¿Qué es JavaScript?](https://aws.amazon.com/es/what-is/javascript/)
-[TypeScript](https://codigofacilito.com/articulos/typescript)
-[Elm](https://openwebinars.net/blog/caracteristicas-y-ventajas-del-lenguaje-elm/#caracter%C3%ADsticas-del-lenguaje-elm)
-[Información sobre JavaScript](https://desarrolloweb.com/home/javascript)
-[Información sobre TypeScript](https://www.unir.net/ingenieria/revista/que-es-typescript/#:~:text=Con%20TypeScript%20podemos%20crear%20desde,%2C%20Facebook%2C%20Twitter%20o%20Amazon.)
+[¿Qué es JavaScript? (autor: Amazon)](https://aws.amazon.com/es/what-is/javascript/)
+[TypeScript (autor: Uriel Hernández)](https://codigofacilito.com/articulos/typescript)
+[Elm (autor: Pablo Fernández)](https://openwebinars.net/blog/caracteristicas-y-ventajas-del-lenguaje-elm/#caracter%C3%ADsticas-del-lenguaje-elm)
+[Información sobre JavaScript (autor: desarrolloweb)](https://desarrolloweb.com/home/javascript)
+[Información sobre TypeScript (autor: Unir)](https://www.unir.net/ingenieria/revista/que-es-typescript/#:~:text=Con%20TypeScript%20podemos%20crear%20desde,%2C%20Facebook%2C%20Twitter%20o%20Amazon.)
