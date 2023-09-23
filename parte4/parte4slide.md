@@ -9,7 +9,7 @@ paginate: true
 
 ---
 
-![Imagen resultados test en JavaScript (autor: Mati Presta)](https://res.cloudinary.com/practicaldev/image/fetch/s--4VC5MSUs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/4q9gsiq9ngm29p0h2s51.jpg)
+![Imagen Python, PHP y Ruby (autor: Alex Merced)](https://res.cloudinary.com/practicaldev/image/fetch/s--4VC5MSUs--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/4q9gsiq9ngm29p0h2s51.jpg)
 
 ---
 

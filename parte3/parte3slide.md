@@ -8,7 +8,7 @@ paginate: true
 
 ---
 
-![Imagen resultados test en JavaScript (autor: Mati Presta)](https://blog.back4app.com/wp-content/uploads/2021/05/Top-10-Front-End-Programming-Languages.jpg)
+![Imagen lenguajes de programación en entorno cliente (autor: Mati Presta)](https://blog.back4app.com/wp-content/uploads/2021/05/Top-10-Front-End-Programming-Languages.jpg)
 
 ---
 
