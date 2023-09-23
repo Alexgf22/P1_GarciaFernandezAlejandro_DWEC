@@ -31,30 +31,19 @@
 
 #### Algunos de los modelos de arquitectura web más comunes
 
-1. **Arquitectura de SPA (Single Page Application):** Las Single Page Applications (SPA) revolucionan la experiencia del usuario al cargar todo lo necesario en una única página y actualizarla dinámicamente a medida que interactúa. Esto se logra a través de llamadas AJAX al servidor, lo que evita la necesidad de recargar la página por completo. En una SPA, el servidor actúa principalmente como un Service Layer y no tiene un papel central como en las aplicaciones web tradicionales.
+1. **Arquitectura de SPA (Single Page Application):** Las Single Page Applications (SPA) actualizan una única página dinámicamente sin recargar por completo, utilizando llamadas al servidor. Este actúa principalmente como una capa de servicio, no central como en aplicaciones web tradicionales.
 
-    Las SPA se basan en características como Chunking (construcción de la página en partes), Controllers (separación de vistas y modelos), Templating (binding de datos en templates HTML), Routing (navegación sin recarga de página) y Real-Time Communication (comunicación bidireccional). También hacen uso del almacenamiento local para permitir el funcionamiento sin conexión.
+    * Las Single Page Applications (SPA) se basan en características como Chunking, Controllers, Templating, Routing y Real-Time Communication. También utilizan almacenamiento local para funcionar sin conexión.
 
-    Ventajas de las SPA incluyen una interfaz de usuario más rápida, mayor interactividad y la capacidad de trabajar sin conexión. Sin embargo, construirlas puede ser más complejo y requiere sólidos conocimientos de JavaScript. También puede ser desafiante elegir las librerías de JavaScript adecuadas para el desarrollo.
+    * Ofrecen ventajas como una interfaz más rápida y mayor interactividad, pero su desarrollo puede ser complejo y requiere sólidos conocimientos de JavaScript. Su popularidad está en aumento y plantean la posibilidad de desplazar a las aplicaciones móviles nativas en el futuro.
 
-    Dadas las ventajas de las SPA, están ganando popularidad rápidamente y plantean la pregunta de si podrían desplazar a las aplicaciones móviles nativas en el futuro.
+2. **Arquitectura de Progresive Web Apps (PWA):** Las Progressive Web Apps (PWA) ofrecen una experiencia rápida y confiable, imitando aplicaciones nativas. Se instalan fácilmente en la pantalla de inicio y funcionan sin conexión. Se actualizan automáticamente y envían notificaciones en tiempo real.
 
-2. **Arquitectura de Progresive Web Apps (PWA):** Las Progressive Web Apps (PWA) son un estándar web que brinda una experiencia rápida y confiable tanto en dispositivos móviles como de escritorio. Muestran funcionalidades de aplicaciones nativas y tienen características adicionales. Sus principales características incluyen una interfaz similar a una aplicación, capacidad de respuesta completa y compatibilidad con diferentes navegadores.
+    * Su implementación puede aumentar el tráfico de búsqueda, mejorar la visibilidad de la marca y fomentar una mayor participación de los clientes. Además, son una alternativa más asequible a las apps nativas, lo que puede llevar a beneficios significativos y una mayor tasa de conversión móvil.
 
-    Las PWA se pueden instalar fácilmente e incluir a la pantalla de inicio, eludiendo la necesidad de descargar e instalar desde tiendas de aplicaciones. Además pueden ejecutarse sin conexión gracias a la tecnología Service Workers. Se actualizan automáticamente y pueden mandar notificaciones en tiempo real.
-
-    Al implementar PWA, las empresas pueden incrementar el tráfico orgánico de búsqueda, mejorar la visibilidad de la marca y alcanzar una mayor participación de los clientes. Además, presentan una alternativa más asequible a las apps nativas. Su adopción puede llevar a beneficios significativos y una mayor tasa de conversión móvil.
-
-3. **Cliente/Servidor:** La arquitectura Cliente-Servidor consta de dos componentes: el servidor (proveedor de servicios o recursos) y el cliente (consumidor de estos servicios). Los clientes se conectan al servidor para obtener los recursos necesarios. El cliente representa datos y desencadena acciones, mientras tanto, el servidor realiza la mayor parte del trabajo.
-
-    Esta arquitectura requiere que el servidor exponga un mecanismo de comunicación, comúnmente TCP/IP, para admitir la interacción continua y bidireccional entre el cliente y el servidor.
-
-    El cliente y el servidor son aplicaciones independientes, desarrolladas por separado, pero siguen el mismo protocolo de comunicación. La separación permite centralizar la información y las responsabilidades, preservando los datos y facilitando el manejo de múltiples clientes.
-
-    Aunque el cliente y el servidor pueden llevarse a cabo con tecnologías diferentes, es común que el mismo equipo trabaje en ambos. Esto da lugar a tres artefactos: el Cliente, el Servidor y una librería que contiene objetos compartidos.
+3. **Cliente/Servidor:** La arquitectura Cliente-Servidor tiene dos componentes: el servidor (proveedor de recursos) y el cliente (consumidor de servicios). Los clientes se conectan al servidor para obtener recursos. El cliente representa datos y desencadena acciones, mientras que el servidor hace la mayor parte del trabajo. Se utiliza TCP/IP para la comunicación. Aunque pueden desarrollarse con tecnologías diferentes, siguen el mismo protocolo, permitiendo la centralización de información y responsabilidades para manejar múltiples clientes.
 
     * Ventajas:
-
         * Centralización de la información.
         * Mayor seguridad con protección del servidor.
         * Fácil instalación del cliente.
@@ -62,7 +51,6 @@
         * Portabilidad con aplicaciones que corren en diferentes plataformas.
 
     * Desventajas:
-
         * Gestión de actualizaciones en clientes.
         * Problemas de concurrencia ante múltiples usuarios.
         * Dependen completamente del servidor.
@@ -75,11 +63,11 @@
 
 #### Apps que usan arquitectura de SPA (Single Page Application)
 
-1. **Gmail** Gmail es un destacado ejemplo de una SPA. Al iniciar sesión, se despliega una sola página inicial donde todas las interacciones se llevan a cabo sin recargar la página completa. Las bandejas de entrada, la composición de mensajes, la búsqueda y la visualización de correos se realizan de inmediato, ofreciendo una experiencia sin interrupciones y ágil.
+1. **Gmail** Gmail es un ejemplo de Single Page Application (SPA). Todas las interacciones ocurren en una sola página sin recargarla, proporcionando una experiencia ágil y sin interrupciones.
 
-2. **Trello** Trello es una app para organizar proyectos con tableros. Permite a los usuarios elaborar listas, añadir tarjetas y trasladarlas entre distintas fases del proceso. En ella, los usuarios llevan a cabo todas las acciones sin requerir cargar páginas extra. Modificar los tableros y tarjetas es sencillo, y los usuarios pueden contribuir en directo de manera fluida.
+2. **Trello** Trello es una app para organizar proyectos en tableros. Permite crear listas y mover tarjetas entre fases sin cargar páginas adicionales. La modificación es sencilla y se puede colaborar en tiempo real.
 
-3. **Spotify** Spotify emplea una Aplicación de Página Única (SPA) en su versión web. Tras iniciar sesión, se despliega una sola página que habilita a los usuarios a buscar, reproducir y administrar música sin cargar páginas adicionales. Las actualizaciones de la lista de reproducción, la búsqueda de artistas y álbumes, así como la emisión de canciones se llevan a cabo en una misma página, proporcionando una experiencia de usuario sin interrupciones y fluida.
+3. **Spotify** En la versión web de Spotify, se emplea una Aplicación de Página Única (SPA). Permite buscar, reproducir y gestionar música sin cargar páginas adicionales. Todas las acciones se realizan en una sola página, proporcionando una experiencia fluida y sin interrupciones.
 
 #### Apps que usan arquitectura de Progresive Web Apps (PWA)
 
