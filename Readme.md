@@ -2,7 +2,7 @@
 
 ## Parte 1
 
-[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte1/parte1doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte1/parte1doc.html)
 
 [Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte1/parte1slide.html)
 
