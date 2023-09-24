@@ -1,36 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo con JavaScript</title>
-    <script src="./ejemplo1.js"></script>
+    <title>Operaciones Matemáticas</title>
+    <script src="ejemplo1.js"></script>
 </head>
 <body>
+    <h1>Operaciones Matemáticas</h1>
+
+    <p>Resultado de la suma: <span id="suma"></span></p>
+    <p>Resultado de la resta: <span id="resta"></span></p>
+    <p>Resultado de la multiplicación: <span id="multiplicacion"></span></p>
+    <p>Resultado de la división: <span id="division"></span></p>
+
     <script>
-        let x = 22;
-        let y = 10;
+        var num1 = 10;
+        var num2 = 6;
 
-        let suma = x + y;
-        let resta = x - y;
-        let multiplicacion = x * y;
-        let division = x / y;
-
-        alert("La suma de : " + x + " + " + y + " es igual a " + suma);
-        alert("La resta de : " + x + " + " + y + " es igual a " + resta);
-        alert("La multiplicacion de : " + x + " + " + y + " es igual a " + multiplicacion);
-        alert("La division de : " + x + " + " + y + " es igual a " + division);
-
+        document.getElementById("suma").innerHTML = sumar(num1, num2);
+        document.getElementById("resta").innerHTML = restar(num1, num2);
+        document.getElementById("multiplicacion").innerHTML = multiplicar(num1, num2);
+        document.getElementById("division").innerHTML = dividir(num1, num2);
     </script>
-
-    <h1>Hola</h1>
-
-    <p>Esto es una prueba de JavaScript donde introduzco en la página
-        de HTML un js externo y otro interno.
-        El externo indica si la persona es mayor o menor de edad y
-        el interno realiza una serie de operaciones: Suma, resta,
-        multiplicacion y división.
-    </p>
-    
 </body>
 </html>

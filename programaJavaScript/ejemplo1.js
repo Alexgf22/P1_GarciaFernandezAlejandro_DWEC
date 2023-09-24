@@ -1,9 +1,20 @@
-// Ejemplo 1
-let edad = 20;
+function sumar(num1, num2) {
+  return num1 + num2;
+}
 
-if (edad >= 18) {
-  alert("Soy mayor de edad ya que tengo " + edad);
-} else {
-  alert("Soy menor de edad");
+function restar(num1, num2) {
+  return num1 - num2;
+}
+
+function multiplicar(num1, num2) {
+  return num1 * num2;
+}
+
+function dividir(num1, num2) {
+  if (num2 !== 0) {
+      return num1 / num2;
+  } else {
+      return "No se puede dividir por cero.";
+  }
 }
 

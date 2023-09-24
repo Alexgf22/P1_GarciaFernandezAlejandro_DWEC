@@ -2,38 +2,38 @@
 
 ## Parte 1
 
-[Documentación](./parte1doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte1/parte1doc.md)
 
-[Presentación](./parte1slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte1/parte1slide.html)
 
 ## Parte 2
 
-[Documentación](./parte2doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte2/parte2doc.md)
 
-[Presentación](./parte2slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte2slide.html)
 
 ## Parte 3
 
-[Documentación](./parte3doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte3/parte3doc.md)
 
-[Presentación](./parte3slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte3slide.html)
 
 ## Parte 4
 
-[Documentación](./parte4doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte4/parte4doc.md)
 
-[Presentación](./parte4slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte4slide.html)
 
 ## Parte 5
 
-[Documentación](./parte5doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte5/parte5doc.md)
 
-[Presentación](./parte5slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte5slide.html)
 
-[Página JavaScript](https://alexgf22.github.io/)
+[Página JavaScript](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/programaJavaScript/index.html)
 
 ## Parte 6
 
-[Documentación](./parte6doc.md)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte6/part6doc.md)
 
-[Presentación](./parte6slide.md)
+[Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte6slide.html)
