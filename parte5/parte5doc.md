@@ -24,7 +24,7 @@
 
 * **Significado HTML5** HTML5 es la versión más reciente del lenguaje de marcado HTML y un estándar que define la estructura y contenido de una página web. HTML quiere decir "HyperText Markup Language", en el cual HyperText se refiere a texto con enlaces a otros contenidos, Markup implica etiquetar elementos en un sitio web, y Language se refiere a las reglas y convenciones para definir la estructura y contenido de una web. Es importante acentuar que HTML no es un lenguaje de programación, ya que no incorpora propiedades de programación como bucles o funciones.
 
-* **¿Cómo funciona HTML5?** El navegador pide la página al servidor mediante una dirección del estilo "http://.../index.html". Después el servidor la rescata y la manda de nuevo al navegador para ser vista.
+* **¿Cómo funciona HTML5?** El navegador pide la página al servidor mediante una dirección. Después el servidor la rescata y la manda de nuevo al navegador para ser vista.
 
 #### CSS
 
