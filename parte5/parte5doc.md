@@ -46,7 +46,7 @@
 
 ### Creación de una pequeña aplicación web integrando código JavaScript de diferentes maneras
 
-[Ejemplo JavaScript](../programaJavaScript/ejemplo.html)
+[Ejemplo JavaScript](https://alexgf22.github.io/)
 
 ### Bibliografía
 
