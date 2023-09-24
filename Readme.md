@@ -34,6 +34,6 @@
 
 ## Parte 6
 
-[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte6/part6doc.html)
+[Documentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte6/parte6doc.html)
 
 [Presentación](https://alexgf22.github.io/P1_GarciaFernandezAlejandro_DWEC/parte6/parte6slide.html)
