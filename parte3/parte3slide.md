@@ -2,7 +2,7 @@
 marp: true
 size: 16:9
 paginate: true
-theme: uncover
+theme: default
 ---
 
 # Parte 3 - Lenguajes de Programación en Entorno Cliente

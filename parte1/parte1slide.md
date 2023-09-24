@@ -1,7 +1,8 @@
 ---
 marp: true
 size: 16:9
-theme: uncover
+paginate: true
+theme: default
 ---
 
 # Parte 1 - Modelos de Programación en Entornos Cliente/Servidor

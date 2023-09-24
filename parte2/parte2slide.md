@@ -2,7 +2,7 @@
 marp: true
 size: 16:9
 paginate: true
-theme: uncover
+theme: default
 ---
 
 # Parte 2 - Mecanismos de Ejecución de Código en un Navegador Web. Capacidades y Limitaciones de Ejecución. Compatibilidad con Navegadores Web
