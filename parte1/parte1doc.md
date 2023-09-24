@@ -73,28 +73,34 @@
 
 Hay una gran variedad de compañías que han implementado esta tecnología en sus webs.
 Tenemos varias como pueden ser:
-    1. **Aliexpress**: En su caso creció considerablemente tanto el número de usuarios y como las estadísticas que mejoraron con creces.
-    2. **Alibaba**
-    3. **The Guardian**
-    4. **The Washington Post**
+
+1. **Aliexpress**: En su caso creció considerablemente tanto el número de usuarios y como las estadísticas que mejoraron con creces.
+2. **Alibaba**
+3. **The Guardian**
+4. **The Washington Post**
 
 #### Apps que usan arquitectura Cliente/Servidor
 
 Muchas apps y servicios modernos usan esta arquitectura para brindar funcionalidades distribuidas y escalables. Ejemplos:
 
-    1. **Facebook** Las redes sociales como Facebook utilizan una arquitectura cliente/servidor para coordinar las interacciones de los usuarios y archivar y restaurar datos.
+1. **Facebook** Las redes sociales como Facebook utilizan una arquitectura cliente/servidor para coordinar las interacciones de los usuarios y archivar y restaurar datos.
 
-    2. **Amazon** Los sitios web de comercio electrónico como Amazon utilizan servidores para manejar la base de datos de productos, procesar transacciones y proveer una experiencia de compra en línea.
+2. **Amazon** Los sitios web de comercio electrónico como Amazon utilizan servidores para manejar la base de datos de productos, procesar transacciones y proveer una experiencia de compra en línea.
 
-    3. **WordPress** Plataformas como WordPress usan una arquitectura cliente/servidor para administrar el contenido de los sitios web, guardar datos y contestar a las solicitudes de los visitantes.
+3. **WordPress** Plataformas como WordPress usan una arquitectura cliente/servidor para administrar el contenido de los sitios web, guardar datos y contestar a las solicitudes de los visitantes.
 
 ---
 
 ### Bibliografía
 
 [Arquitectura cliente-servidor (autor: Oscar Blancarte, copyright)](https://reactiveprogramming.io/blog/es/estilos-arquitectonicos/cliente-servidor)
+
 [Progressive Web Apps (autor: Félix Icaza) 25 Octubre, 2021 copyright](https://felixicaza.com/blog/que-son-las-progressive-web-apps)
+
 [Single Page Applications (autor: Roberto Bermejo) 10 JUNIO, 2014 copyright](https://itblogsogeti.com/2014/06/10/single-page-applications-roberto-bermejo-sogeti/)
+
 [Apps que usan arquitectura Single Page Application (autor: Martín Durán) May 22, 2023 copyright](https://blog.hubspot.es/website/que-es-single-page-application)
+
 [Apps que usan arquitectura Progresive Web Apps (autor: Daniel Torres Burriel) 25/1/2017 copyright](https://torresburriel.com/weblog/disenando-aplicaciones-web-progresivas-pwa/)
+
 [Apps que usan arquitectura Cliente/Servidor (autor: Fazt Blog) abril 06, 2017 copyright](https://blog.faztweb.com/2017/04/entendiendo-arquitectura-cliente.html)

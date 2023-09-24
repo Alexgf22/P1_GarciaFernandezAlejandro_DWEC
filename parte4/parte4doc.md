@@ -45,4 +45,5 @@ Los lenguajes de scripting son un modelo de lenguaje informático usado para dar
 ### Bibliografía
 
 [Lenguajes-script (autor: Anna Monus) septiembre 12, 2023 copyright](https://kinsta.com/es/blog/lenguajes-script/)
+
 [¿Qué son los lenguajes de scripting? (autor: IONOS) 9.9.2020 copyright](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-son-los-lenguajes-de-scripting/)

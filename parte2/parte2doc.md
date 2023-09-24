@@ -59,4 +59,5 @@ JavaScript es un lenguaje interpretado que se ejecuta al cargar una página web 
 ### Bibliografía
 
 [Ejecución de JavaScript en página web (autor: edgardandrea) 3 agosto 2010 copyright](https://www.edgardandrea.com/como-se-ejecuta-javascript-dentro-de-un-pagina-web/)
+
 [Compatibilidad web entre navegadores (autor: Verónica Milán) 3 junio, 2018 copyright](https://www.lawebera.es/xhtml-css/compatibilidad-web-navegadores.php)

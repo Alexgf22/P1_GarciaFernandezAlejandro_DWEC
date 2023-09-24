@@ -60,5 +60,7 @@ paginate: true
 ### Bibliografía
 
 [¿Qué es Visual Studio Code? (autor: Frankier Flores) 22 julio 2022 copyright](https://openwebinars.net/blog/que-es-visual-studio-code-y-que-ventajas-ofrece/)
+
 [¿Qué es DevTools? (autor: IMACRESTE) 15 AGOSTO, 2017](https://imacreste.com/que-es-y-porque-usar-devtools/)
+
 [Chrome DevTools (autor: Diego De Granda) copyright](https://platzi.com/clases/1758-html-practico/24684-chrome-dev-tools/)
